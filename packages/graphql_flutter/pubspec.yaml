@@ -11,7 +11,7 @@ dependencies:
   graphql: 
     git:
       url: git://github.com/ryankauk/graphql-flutter.git
-      path: packages/graphql_flutter
+      path: packages/graphql
   flutter:
     sdk: flutter
   meta: ^1.1.6
